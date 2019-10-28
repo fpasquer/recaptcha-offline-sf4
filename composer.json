@@ -1,5 +1,5 @@
 {
-  "name": "fpasquer/SimpleRecaptchaOfflineSF4",
+  "name": "fpasquer/recaptcha-offline-sf4",
   "description": "Simple Recaptcha",
   "require": {
     "symfony/orm-pack": "^1.0"
