@@ -1,0 +1,5 @@
+services:
+    SimpleRecaptchaTwig:
+        class: 'fpasquer\SimpleRecaptchaBundle\src\TwigExtensions\SimpleRecaptchaTwig'
+        tags:
+            - { name: twig.extension }
