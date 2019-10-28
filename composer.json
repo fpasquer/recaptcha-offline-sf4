@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Fpasquer\\SimpleRecaptchaBundle\\": "src/"
+      "fpasquer\\SimpleRecaptchaBundle\\": "src/"
     }
   }
 }
